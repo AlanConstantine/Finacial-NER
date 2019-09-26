@@ -1,2 +1,3 @@
 *.csv
 .ipynb_checkpoints
+word2vec_text
